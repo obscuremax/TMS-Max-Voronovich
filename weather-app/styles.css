@@ -60,3 +60,8 @@ input.input {
 input:focus {
     outline: none;
 }
+#mapid {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
