@@ -1,0 +1,20 @@
+.buttons-panel {
+	display: flex;
+	flex-direction: row;
+}
+
+.decrement {
+	background-color: red;
+}
+
+.reset {
+	background-color: orange;
+}
+
+.increment {
+	background-color: green;
+}
+.center {
+	justify-content: center;
+	align-items: center;
+}

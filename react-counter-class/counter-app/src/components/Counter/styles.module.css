@@ -1,0 +1,10 @@
+.center {
+	justify-content: center;
+	align-items: center;
+}
+
+.counter {
+	display: flex;
+	flex: 1;
+	background-color: grey;
+}
