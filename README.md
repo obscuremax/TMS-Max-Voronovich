@@ -1,2 +1,2 @@
 # TMS-Max-Voronovich
-**https://github.com/obscuremax/js-assignments**
+*https://github.com/obscuremax/js-assignments*
