@@ -1,0 +1,10 @@
+.button {
+	color: white;
+	width: 100px;
+	height: 100px;
+}
+
+.center {
+	justify-content: center;
+	align-items: center;
+}
